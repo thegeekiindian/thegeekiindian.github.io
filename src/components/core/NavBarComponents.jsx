@@ -1,5 +1,5 @@
-import About from './About';
-import Home from './Home';
+import About from './navbaritems/About';
+import Home from './navbaritems/Home';
 
 let Components = [{
         name: 'home',
